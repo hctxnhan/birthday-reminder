@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Miniproject Reactjs Birthday reminder component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+![image](https://user-images.githubusercontent.com/95177300/198864010-814b4501-6917-43a0-a970-454529459883.png)
 
 In the project directory, you can run:
 
